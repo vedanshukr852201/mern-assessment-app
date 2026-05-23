@@ -360,52 +360,9 @@ pnpm run install-all
 - 🌐 **Multi-language**: i18n support
 - 📱 **Mobile App**: React Native companion app
 
-## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](./CONTRIBUTING.md) for details.
+## Author
 
-### Development Workflow
+Vedanshu Kumar
 
-1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/yourusername/mern-assessment-app.git`
-3. **Create** a feature branch: `git checkout -b feature/amazing-feature`
-4. **Install** dependencies: `bun run install-all`
-5. **Make** your changes
-6. **Test** thoroughly: `bun test`
-7. **Commit** changes: `git commit -m 'Add amazing feature'`
-8. **Push** to branch: `git push origin feature/amazing-feature`
-9. **Submit** a Pull Request
-
-### Code Standards
-
-- **TypeScript**: Use TypeScript for type safety
-- **ESLint**: Follow the configured linting rules
-- **Prettier**: Use consistent code formatting
-- **Testing**: Write tests for new features
-- **Documentation**: Update README and inline comments
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Bun.js Team** for the amazing runtime and package manager
-- **React Team** for the excellent frontend framework
-- **MongoDB** for the flexible document database
-- **Docker** for containerization platform
-- **Material-UI** for the beautiful component library
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful!**
-
-Made with ❤️ and ☕ by [srajasimman](https://github.com/srajasimman)
-
-[🐛 Report Bug](https://github.com/srajasimman/mern-assessment-app/issues) •
-[✨ Request Feature](https://github.com/srajasimman/mern-assessment-app/issues) •
-[💬 Discussions](https://github.com/srajasimman/mern-assessment-app/discussions)
-
-</div>
+GitHub: https://github.com/vedanshukr852201
