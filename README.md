@@ -361,7 +361,7 @@ pnpm run install-all
 - 📱 **Mobile App**: React Native companion app
 
 
-## Author
+## ##Author
 
 Vedanshu Kumar
 
