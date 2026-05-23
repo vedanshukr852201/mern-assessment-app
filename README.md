@@ -68,7 +68,7 @@ pnpm --version
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/srajasimman/mern-assessment-app.git
+git clone https://github.com/vedanshukr852201/mern-assessment-app.git
 cd mern-assessment-app
 ```
 
